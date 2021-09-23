@@ -1,3 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
 def sumDiff(x, y):
-    return
+    return (x + y) - (x - y)
+
+print(sumDiff(17, 2))
